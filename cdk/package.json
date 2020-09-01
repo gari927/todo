@@ -21,7 +21,13 @@
     "typescript": "~3.7.2"
   },
   "dependencies": {
+    "@aws-cdk/aws-route53": "^1.61.1",
+    "@aws-cdk/aws-route53-targets": "^1.61.1",
+    "@aws-cdk/aws-s3": "^1.61.1",
+    "@aws-cdk/aws-s3-deployment": "^1.61.1",
     "@aws-cdk/core": "1.47.0",
+    "@types/js-yaml": "^3.12.5",
+    "js-yaml": "^3.14.0",
     "source-map-support": "^0.5.16"
   }
 }
